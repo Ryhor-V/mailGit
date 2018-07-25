@@ -3,4 +3,22 @@
   <groupId>by.htp.mailru</groupId>
   <artifactId>mailru.git</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <!-- coment for git -->
+  <dependencies>
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>6.9.10</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-java</artifactId>
+			<version>3.11.0</version>
+		</dependency>
+
+
+	</dependencies>
+  
 </project>
