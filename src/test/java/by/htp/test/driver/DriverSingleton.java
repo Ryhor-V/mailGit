@@ -5,7 +5,8 @@ import java.util.logging.LogManager;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.log4testng.Logger;
+import java.util.logging.LogManager;
+import java.util.logging.Logger;
 
 public class DriverSingleton {
 	
